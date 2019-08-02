@@ -1,0 +1,26 @@
+.con-2{
+      display: grid;
+      grid-template-columns: 40% 60%;
+}
+
+.final-table{
+      margin: 20px;
+}
+
+.final-table h5{
+      text-align: center;
+      padding: 15px;
+}
+
+.table h5{
+      text-align: center;
+      padding: 10px;
+}
+
+.percent-input{
+      display: grid;
+      grid-template-columns: auto auto;
+}
+.per-carry h4, h5{
+      text-align: center;
+}

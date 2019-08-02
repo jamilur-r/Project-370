@@ -1,0 +1,25 @@
+h3{
+      text-align: center;
+      padding: 5% 0% 0% 0%;
+}
+
+.title-input, .code-input, .ini-input{
+      padding: 5% 10% 0% 10%;
+}
+
+.btn{
+      margin: 5% 40% 0% 40%; 
+}
+.form-container{
+      display: grid;
+      grid-template-columns: 40% 50%;
+}
+
+.post-card{
+      margin: 25px;
+}
+
+.row-1{
+      display: grid;
+      grid-template-rows: auto auto;
+}
